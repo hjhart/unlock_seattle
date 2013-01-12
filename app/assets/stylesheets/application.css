@@ -9,5 +9,16 @@
  * compiled file, but it's generally better to create a new file per style scope.
  *
  *= require_self
+ *= require foundation_and_overrides
+ *= require social-buttons
+ *= require foundation-icons
  *= require_tree .
  */
+
+.white {
+    color: white;
+}
+
+.pad {
+    padding-left: 10px;
+}
