@@ -22,3 +22,12 @@
 .pad {
     padding-left: 10px;
 }
+
+.contact i {
+    font-size: 1.2em;
+}
+
+body * {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1em;
+}
