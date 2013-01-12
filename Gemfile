@@ -12,6 +12,7 @@ group :assets do
   gem 'sass-rails',   '~> 3.2.3'
   gem 'coffee-rails', '~> 3.2.1'
 
+  gem 'uglifier'
   # Add these gems
   gem 'compass-rails'
   gem 'zurb-foundation'
