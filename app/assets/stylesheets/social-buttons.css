@@ -731,7 +731,7 @@ a.sb.podcast,
 
 a.sb.rss,
 .sb a.rss {
-	background-image: url(images/rss.png);
+	background-image: url(/assets/rss.png);
 }
 
 a.sb.share_this,
@@ -880,7 +880,7 @@ a.sb.black.rss,
 .sb.black a.rss,
 a.sb.gray.rss,
 .sb.gray a.rss {
-	background-image: url(images/white_rss.png);
+	background-image: url(/assets/white_rss.png);
 }
 
 a.sb.blue.share_this,
